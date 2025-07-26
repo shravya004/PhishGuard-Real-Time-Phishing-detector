@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__/
+model/
+.env
+
+# Node
+node_modules/
+.next/
+dist/
+
+# VSCode
+.vscode/
